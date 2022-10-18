@@ -25,6 +25,8 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 - [Answer by invzbl3 for MongoCommandException: Command failed with error 8000 (AtlasError): 'no SNI name sent, make sure using a MongoDB 3.4+ driver/shell.'](https://stackoverflow.com/a/59121036/8370915)
 - [Answer by invzbl3 for Spring Security: all endpoints return status 200 and unresponsive to constraints as antMatchers](https://stackoverflow.com/a/68744721/8370915)
 - [Answer by invzbl3 for How to fix the issue: "The specified database user/password combination is rejected" using Intellij IDEA?](https://stackoverflow.com/a/69789693/8370915)
+- [Answer by invzbl3 for How to get the Maven project window in Intellij 14 | Update: cannot see the right side "tab bar" with Maven project](https://stackoverflow.com/a/57502246/8370915)
+- [Answer by invzbl3 for Failed Autowired of BuildProperties Spring Boot 2.1.5 & eclipse](https://stackoverflow.com/a/68686686/8370915)
 <!-- STACKOVERFLOW:END -->
 </details>
 
