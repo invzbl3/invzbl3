@@ -16,6 +16,18 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 
 ### Achievements & Inventions
 
+<details>
+  <summary>:orange_book: StackOverflow Activity</summary>
+  
+  <!-- STACKOVERFLOW:START -->
+- [Answer by invzbl3 for How to connect to Atlas M0 (Free Tier) cluster correctly via Java driver?](https://stackoverflow.com/a/51042704/8370915)
+- [Answer by invzbl3 for How to avoid an exception Prematurely reached end of stream using mongoDB Java driver 3.4+ or 3.6+? (during insertion)](https://stackoverflow.com/a/52704288/8370915)
+- [Answer by invzbl3 for MongoCommandException: Command failed with error 8000 (AtlasError): 'no SNI name sent, make sure using a MongoDB 3.4+ driver/shell.'](https://stackoverflow.com/a/59121036/8370915)
+- [Answer by invzbl3 for Spring Security: all endpoints return status 200 and unresponsive to constraints as antMatchers](https://stackoverflow.com/a/68744721/8370915)
+- [Answer by invzbl3 for How to fix the issue: "The specified database user/password combination is rejected" using Intellij IDEA?](https://stackoverflow.com/a/69789693/8370915)
+<!-- STACKOVERFLOW:END -->
+</details>
+
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
