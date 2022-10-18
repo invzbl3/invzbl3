@@ -27,7 +27,6 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 [linkedin]: https://www.linkedin.com/in/maksym-r-97388915a/
 
 <br />
-<br />
 
 ### My favourite inspirational quotes
 
