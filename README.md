@@ -14,10 +14,23 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8370915&layout=compact&theme=dark)](https://stackoverflow.com/users/8370915/invzbl3)
 
+### Achievements & Inventions
+
+### Connect with me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
+[stackoverflow]: https://stackoverflow.com/users/8370915/invzbl3
+[github]: https://github.com/invzbl3
+[linkedin]: https://www.linkedin.com/in/maksym-r-97388915a/
+
+<br />
+<br />
+
 ### My favourite inspirational quotes
 
 "Be the change that you wish to see in the world" - **Mahatma Gandhi**
 
 "The present is theirs; the future, for which I really worked, is mine." — **Nikola Tesla**
-
-### Achievements & Inventions
