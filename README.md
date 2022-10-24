@@ -38,6 +38,7 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 
 [stackoverflow]: https://stackoverflow.com/users/8370915/invzbl3
 [github]: https://github.com/invzbl3
+[linkedin]: https://www.linkedin.com/in/maksym-r-97388915a/
 
 <br />
 
