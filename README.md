@@ -44,7 +44,7 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 
 ### My favourite inspirational quotes
 
-"Be the change that you wish to see in the world" - **Mahatma Gandhi**
+"Be the change that you wish to see in the world." - **Mahatma Gandhi**
 
 "The present is theirs; the future, for which I really worked, is mine." - **Nikola Tesla**
 
