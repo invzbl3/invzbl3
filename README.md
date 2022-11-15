@@ -46,6 +46,6 @@ Since 2017, in my free time, I've been asking and answering technical questions 
 
 "Be the change that you wish to see in the world" - **Mahatma Gandhi**
 
-"The present is theirs; the future, for which I really worked, is mine." — **Nikola Tesla**
+"The present is theirs; the future, for which I really worked, is mine." - **Nikola Tesla**
 
 "Fear sometimes makes you wet yourself, but courage makes you act even in wet pants." - **Richard Branson**
