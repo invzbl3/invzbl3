@@ -1,4 +1,4 @@
-# About
+# About (I'm leave a legacy and when I'm in front of God, I'll know what to show him)
 
 I'd identify myself as:
 
