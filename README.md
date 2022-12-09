@@ -1,7 +1,5 @@
 # About
 
-(I'm leave the only positive legacy here and then I'm out. As a result, in front of God, I'll know what to show him.)
-
 I'd identify myself as:
 
 `Futurist` • `Scientist` • `Software Engineer` • `Inventor`
