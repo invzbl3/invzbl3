@@ -1,7 +1,5 @@
 # About
 
-I'd identify myself as:
-
 `Futurist` • `Scientist` • `Software Engineer` • `Inventor`
 
 I'm working as a software engineer from 2017 on personal projects and from 2020 in production. At the moment, I managed to work with various small and large companies, gaining the necessary valuable experience. 
