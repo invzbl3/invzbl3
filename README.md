@@ -4,18 +4,6 @@
 
 I'm working as a software engineer from 2017 on personal projects and from 2020 in production. At the moment, I managed to work with various small and large companies, gaining the necessary valuable experience. 
 
-Since I attended art school as a child and drew a lot, I also have a creative approach to programming.
-
-I'm waiting for the day when I see a civilization of people like me and my conscience.
-
-Let those who caused me harm of any form leave me and let those who are with me come.
-
-Disputes, competition and enmity are all sin and nonsense, because they cause internal destruction, destroy morality and discredit each of us. I remain convinced in it.
-
-You can hate my work whoever you are, but my personal principle in life IS to help others. I'll pin this while working on this forum.
-
-I hate statistics as a categorical factor, but it inspires me as a formality.
-
 ### Contribution to the community 
 
 Since 2017, in my free time, I've been asking and answering technical questions from others. My goal is not to chase numbers, but to help others and learn new technologies.
